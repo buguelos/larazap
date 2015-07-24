@@ -1,5 +1,5 @@
 {
-    "name": "buguelos/larawhatsapi",
+    "name": "buguelos/larazap",
     "description": "A laravel Wrapper for WhatsApi",
     "license": "MIT",
     "keywords": [
@@ -9,8 +9,8 @@
     ],
     "authors": [
         {
-            "name": "Jonathan Williamson",
-            "email": "jonnywilliamson@gmail.com"
+            "name": "Emerson Pedroso",
+            "email": "admin@buguelos.com.br"
         }
     ],
     "require": {
